@@ -1,0 +1,13 @@
+PERMIS SÉCURITÉ – ATELIER MÉTALLERIE
+
+Cette première version de l'application fonctionne dans un navigateur récent.
+Elle enregistre les élèves, les incidents et les validations des machines dans le stockage LOCAL du navigateur. Elle comprend un export/import JSON, un suivi des points, un historique et une impression de fiche.
+
+IMPORTANT : ne pas stocker de dossiers nominatifs d'élèves avant validation de la solution par l'établissement et son DPD. Cette version n'a ni authentification, ni synchronisation, ni sauvegarde distante, ni journal d'audit inaltérable.
+
+Pour tester sur ordinateur : ouvrir index.html ou servir ce dossier sur http://localhost avec un serveur local.
+Pour installer sur téléphone comme application, l'établissement devra héberger les fichiers sur une adresse HTTPS autorisée. Dans Safari iPhone : Partager > Sur l'écran d'accueil ; dans Chrome Android : Installer l'application.
+
+L'utilisation officielle devra inclure un backend sécurisé, des comptes enseignants, des rôles, des sauvegardes et une politique de conservation des données.
+
+Procédés inclus : oxyacétylénique 311, MAG 135, TIG 141. Meulage : disque à tronçonner ou disque à meuler selon la tâche.
